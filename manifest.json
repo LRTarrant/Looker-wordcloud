@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <script type="application/json">
-    {
+
       "name": "Custom Word Cloud",
       "id": "wordcloud",
       "organization": "Deep South Marketing Group",
@@ -30,6 +25,4 @@
         }
       }]
     }
-    </script>
-  </head>
-</html>
+    
